@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookListService", "BookList
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookListServiceConsoleUI", "BookListServiceConsoleUI\BookListServiceConsoleUI.csproj", "{6E830109-CF15-452A-A088-911531D82CA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSorter", "BubbleSorter\BubbleSorter.csproj", "{ED2CB8CA-53B0-495D-B9C1-DA53DCF5F32C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSorter.Tests", "BubbleSorter.Tests\BubbleSorter.Tests.csproj", "{86691CAA-BC6B-4DC2-A56E-DB6D30E2144C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{6E830109-CF15-452A-A088-911531D82CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E830109-CF15-452A-A088-911531D82CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E830109-CF15-452A-A088-911531D82CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2CB8CA-53B0-495D-B9C1-DA53DCF5F32C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2CB8CA-53B0-495D-B9C1-DA53DCF5F32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2CB8CA-53B0-495D-B9C1-DA53DCF5F32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2CB8CA-53B0-495D-B9C1-DA53DCF5F32C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86691CAA-BC6B-4DC2-A56E-DB6D30E2144C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86691CAA-BC6B-4DC2-A56E-DB6D30E2144C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86691CAA-BC6B-4DC2-A56E-DB6D30E2144C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86691CAA-BC6B-4DC2-A56E-DB6D30E2144C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
